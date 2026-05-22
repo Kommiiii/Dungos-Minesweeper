@@ -1,4 +1,0 @@
-ROWS = 10
-COLS = 10
-MINES = 12
-CELL_SIZE = 60
